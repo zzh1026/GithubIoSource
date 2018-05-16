@@ -4,13 +4,14 @@ title: BoradcastReceiver的使用
 date: 2018-05-16 13:54:08
 tags: Android,Boradcast,Receiver
 categories: 学习知识
-description: AndroidBoradcastReceiver学习
 
 ---
 
 BroadcastReceiver翻译为广播接收者，Broadcast是一种广泛运用在应用程序之间的传输信息的机制，简单的可以理解为传统意义上的电台广播，通俗一点，发布失物招领。
 
 广播机制是一个典型的发布—订阅模式，也就是我们所说的观察者模式。广播最大的特点就是发送方并不关心接收方是否接到数据，也不关心接收方是如何处理数据的，通过这样的形式来达到接、收双方的完全解耦合
+
+<!-- more -->
 
 ## 1,普通广播 ##
 

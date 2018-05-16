@@ -4,7 +4,6 @@ title: OKhttp学习
 date: 2018-05-16 13:54:08
 tags: OKhttp
 categories: 学习知识
-description: OKhttp 学习笔记
 
 ---
 
@@ -15,6 +14,8 @@ description: OKhttp 学习笔记
 
 	2,web浏览器向web服务器发送请求命令 (请求方法,请求协议版本)
 		例如: GET/sample/hello.jsp HTTP/1.1
+		
+<!-- more -->
 
 	3,web浏览器发送请求头信息 
 		浏览器发送其请求命令之后, 还要以头信息的形式向Web服务器发送一些别的信息, 

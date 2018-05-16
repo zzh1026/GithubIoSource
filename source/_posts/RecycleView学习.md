@@ -4,7 +4,6 @@ title: RecycleView学习
 date: 2018-05-16 13:54:08
 tags: RecycleView
 categories: 学习知识
-description: RecycleView 学习笔记
 
 ---
 
@@ -17,6 +16,8 @@ description: RecycleView 学习笔记
 RecycleView 在 support-v7包下
 
 其作用是用来代替 ListView和GridView
+
+<!-- more -->
 
 其优点是:
 

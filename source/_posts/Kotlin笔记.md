@@ -4,15 +4,16 @@ title: kotlin笔记
 date: 2018-05-16 13:54:08
 tags: Android,kotlin
 categories: 学习知识
-description: kotlin学习笔记
 
 ---
 
-###通过kotlin可以得到什么
+# 通过kotlin可以得到什么
 
 1,易表现
 
 通过Kotlin,可以更容易地避免模版代码,因为大部分的典型情况都在语言中默认覆盖实现了。(例如 javabean 类的编写)
+
+<!-- more -->
 
 java中
 

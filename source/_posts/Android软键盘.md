@@ -5,7 +5,6 @@ title: Android软键盘
 date: 2018-05-16 13:54:08
 tags: Android,软键盘
 categories: 学习知识
-description: Android软键盘学习
 
 ---
 
@@ -16,6 +15,8 @@ description: Android软键盘学习
 1,软键盘的状态:当活动(Activity)成为用户关注的焦点时，它是否隐藏或显示。
 
 2,对活动主窗口进行的调整：无论是调整大小以便为软键盘腾出空间，还是在软键盘覆盖窗口的一部分，以便当前焦点内容可见。
+
+<!-- more -->
 
 ### 1,属性详解 ###
 

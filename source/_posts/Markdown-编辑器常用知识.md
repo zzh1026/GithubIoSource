@@ -4,13 +4,14 @@ title: Markdown 编辑器常用知识
 date: 2018-05-16 13:54:08
 tags: markdown
 categories: 学习知识
-description: Markdown 编辑器常用知识
 
 ---
 
 
-##简介
+## 简介
 Markdown 是一种轻量级的标记语言，其用简单的标记语法便可达到排版的目的，其可以使我们更加专注于内容的编写，而不需过多关注排版。本文主要整理了 Markdown 中的常用的标记语法，以便自己与他人以后查用。
+
+<!-- more -->
 
 [Markdown介绍](https://baoyuzhang.github.io/2017/05/05/%E3%80%90Hexo%E6%90%AD%E5%BB%BA%E7%8B%AC%E7%AB%8B%E5%8D%9A%E5%AE%A2%E5%85%A8%E7%BA%AA%E5%BD%95%E3%80%91%EF%BC%88%E4%BA%8C%EF%BC%89%E4%BD%BF%E7%94%A8Markdown/ "Markdown介绍")
 

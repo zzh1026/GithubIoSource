@@ -4,17 +4,18 @@ title: Retrofit学习
 date: 2018-05-16 13:54:08
 tags: Retrofit
 categories: 学习知识
-description: Retrofit学习笔记
 
 ---
 
 [查看连接 -- 深入浅出 Retrofit http://chuansong.me/n/365421237869](http://chuansong.me/n/365421237869)
 
-##1,Hello Retrofit	(这里是需要配置两个东西 : 1,baseurl;2,Converter)
+## 1,Hello Retrofit	(这里是需要配置两个东西 : 1,baseurl;2,Converter)
 关于配置可以查看[Retrofit2 完全解析 探索与okhttp之间的关系](http://chuansong.me/n/365421237869)
 
 #### 1,添加依赖 ####
 >compile 'com.squareup.retrofit2:retrofit:2.1.0'
+
+<!-- more -->
 
 #### 2,定义接口 ####
 >	

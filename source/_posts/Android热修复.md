@@ -3,18 +3,23 @@
 
 title: Android热修复
 date: 2018-05-16 13:54:08
-tags: Android,热修复
-categories: 学习知识
-description: Android热修复学习
+tags: 
+    - Android
+    - 热修复
+categories: 
+    - 学习知识
+    - 技术文档
 
 ---
 
-
-[热修复——深入浅出原理与实现](https://juejin.im/post/5a0ad2b551882531ba1077a2 "热修复——深入浅出原理与实现")
+<!-- 居中 -->
+{% cq %} [热修复——深入浅出原理与实现](https://juejin.im/post/5a0ad2b551882531ba1077a2 "热修复——深入浅出原理与实现") {% endcq %}
 ## 1, 目前较火的热修复方案:
 
 1. 阿里系：DeXposed、andfix：从底层二进制入手（c语言）。
 2. 腾讯系：tinker：从java加载机制入手。
+
+<!-- more -->
 
 ## 2, ClassLoader  在jdk 的dalvik.system包下
 可以动态加载class文件到内存当中,其作用为:

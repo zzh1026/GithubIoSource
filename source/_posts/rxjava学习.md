@@ -4,7 +4,6 @@ title: Rxjava学习
 date: 2018-05-15 19:36:35
 tags: Retrofit
 categories: 学习知识
-description: Rxjava学习笔记
 
 ---
 
@@ -28,6 +27,8 @@ description: Rxjava学习笔记
 	        Log.d(tag, "Error!");
 	    }
 	};
+	
+<!-- more -->
 
 2,创建被观察者: observable
 

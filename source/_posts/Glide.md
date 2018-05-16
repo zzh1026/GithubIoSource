@@ -4,15 +4,16 @@ title: Glide学习
 date: 2018-05-16 13:54:08
 tags: Android,Glide
 categories: 学习知识
-description: Glide学习
 
 ---
 
-###第一部分是 glide 的使用以及和 picasso 的对比
-###第二部分是 glide 与 fresco 的对比
+### 第一部分是 glide 的使用以及和 picasso 的对比
+### 第二部分是 glide 与 fresco 的对比
 
-###1,glide库的地址
+### 1,glide库的地址
 [bumptech/glide](https://github.com/bumptech/glide)
+
+<!-- more -->
 
 [Android 图片加载框架最全解析（一），Glide的基本用法](http://blog.csdn.net/guolin_blog/article/details/53759439)
 
