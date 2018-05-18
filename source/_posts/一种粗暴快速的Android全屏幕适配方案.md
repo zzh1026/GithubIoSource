@@ -33,7 +33,7 @@ dp。dp是Android开发中特有的一个单位。与px不同，dp是基于屏�
 ![](https://upload-images.jianshu.io/upload_images/3490737-953d5d55e6a0c042.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/700)
 
 [百分比布局支持库](https://github.com/JulienGenoud/android-percent-support-lib-sample)。没有使用过，但是deprecated in API level 26.0.0-beta1。
-![](http://zhaozehui.cn/myimages/image_1.png)
+![](http://zhaozehui.cn/images/blogiamges/image_1.png)
 
 ConstraintLayout。百分比支持库deprecated之后推荐使用的布局。
 
