@@ -3,7 +3,9 @@ title: 一种粗暴快速的Android全屏幕适配方案
 comments: false
 date: 2018-05-17 17:24:08
 tags: Android适配
-categories: 转载学习资料
+categories: 
+    - 转载学习资料
+    - Android适配
 
 ---
 
