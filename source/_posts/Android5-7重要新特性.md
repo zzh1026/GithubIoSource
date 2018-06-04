@@ -429,3 +429,5 @@ Support26库中提供了自动调整文字大小的TextView
         }
 
 ![](https://user-gold-cdn.xitu.io/2017/12/21/16078e0b5f1541b9?imageslim)
+
+具体行为变更可以查看官网[Android 8.0 功能和 API](https://developer.android.com/about/versions/oreo/android-8.0)

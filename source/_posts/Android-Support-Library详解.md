@@ -262,3 +262,5 @@ jar文件版本：支持库的版本需要跟compileSdkVersion保持一致。
 [https://www.jianshu.com/p/dfc55afe0f47](https://www.jianshu.com/p/dfc55afe0f47 "Android Support Library v4 模块拆分")
 
 [https://www.jianshu.com/p/916aa3825fff](https://www.jianshu.com/p/916aa3825fff "GridLayout讲解、用GridLayout制作计算器界面")
+
+[官网的Android 库](https://developer.android.com/topic/libraries/support-library/)
