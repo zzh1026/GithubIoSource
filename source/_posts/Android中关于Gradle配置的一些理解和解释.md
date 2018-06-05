@@ -3,7 +3,9 @@ title: Android中关于Gradle配置的一些理解和解释
 comments: false
 date: 2018-06-01 11:09:37
 tags: Android, gradle配置, compileSdk,Platform-tools, classpath配置
-categories: Android的Gradle配置理解
+categories: 
+    - Android
+    - 知识总结
 
 ---
 

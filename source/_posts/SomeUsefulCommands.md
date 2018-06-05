@@ -3,7 +3,9 @@
 title: Some Useful Commands
 date: 2018-05-15 19:36:35
 tags: commands
-categories: 学习知识
+categories: 
+     - JS
+     - 学习知识
 
 ---
 

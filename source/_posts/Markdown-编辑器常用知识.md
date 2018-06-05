@@ -3,7 +3,9 @@
 title: Markdown 编辑器常用知识
 date: 2018-05-16 13:54:08
 tags: markdown
-categories: 学习知识
+categories: 
+     - Markdown
+     - 学习知识
 
 ---
 

@@ -3,7 +3,9 @@ title: path作图
 comments: false
 date: 2018-05-18 13:41:37
 tags: pathData,vector,VectorDrawable
-categories: Android View
+categories: 
+     - Android
+     - Android View
 
 ---
 

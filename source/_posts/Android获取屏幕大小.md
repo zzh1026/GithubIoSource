@@ -4,8 +4,8 @@ comments: false
 date: 2018-05-18 16:53:01
 tags:   Android屏幕
 categories:
-    - 学习知识
-    - Android屏幕大小
+    - Android
+    - 知识总结
     
 ---
 

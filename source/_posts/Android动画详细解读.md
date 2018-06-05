@@ -4,8 +4,8 @@ comments: false
 date: 2018-05-23 14:37:01
 tags: Android动画
 categories:
-    - 转载学习资料
-    - Android动画详解
+    - Android
+    - 知识总结
 
 ---
 

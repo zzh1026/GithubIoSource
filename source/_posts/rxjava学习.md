@@ -3,7 +3,9 @@
 title: Rxjava学习
 date: 2018-05-15 19:36:35
 tags: Retrofit
-categories: 学习知识
+categories: 
+     - Android
+     - 学习知识
 
 ---
 

@@ -3,7 +3,9 @@
 title: RecycleView学习
 date: 2018-05-16 13:54:08
 tags: RecycleView
-categories: 学习知识
+categories: 
+     - Android
+     - 学习知识
 
 ---
 

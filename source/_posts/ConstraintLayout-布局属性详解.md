@@ -4,8 +4,8 @@ comments: false
 date: 2018-05-18 09:31:28
 tags: ConstraintLayout
 categories:
-    - 学习知识
-    - ConstraintLayout
+    - Android
+    - Android UI
     
 ---
 

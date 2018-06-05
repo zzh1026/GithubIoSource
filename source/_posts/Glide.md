@@ -3,7 +3,9 @@
 title: Glide学习
 date: 2018-05-16 13:54:08
 tags: Android,Glide
-categories: 学习知识
+categories: 
+    - Android
+    - 学习知识
 
 ---
 

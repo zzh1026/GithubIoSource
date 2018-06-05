@@ -3,7 +3,9 @@ title: Android5-7重要新特性
 comments: false
 date: 2018-05-21 09:56:58
 tags: Android新特性
-categories: Android新特性
+categories: 
+    - Android
+    - 知识总结
 
 ---
 

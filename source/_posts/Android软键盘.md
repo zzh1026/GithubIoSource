@@ -4,7 +4,9 @@
 title: Android软键盘
 date: 2018-05-16 13:54:08
 tags: Android,软键盘
-categories: 学习知识
+categories: 
+    - Android
+    - 知识总结
 
 ---
 

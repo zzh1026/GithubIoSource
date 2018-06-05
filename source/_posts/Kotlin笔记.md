@@ -1,9 +1,11 @@
 ---
 
-title: kotlin笔记
+title: Kotlin笔记
 date: 2018-05-16 13:54:08
 tags: Android,kotlin
-categories: 学习知识
+categories: 
+    - Kotlin
+    - 学习知识
 
 ---
 

@@ -3,7 +3,9 @@ title: Android Support Library详解
 comments: false
 date: 2018-05-30 14:23:13
 tags: Support-v4 ,Support-v7 ,Android Support Library
-categories: Support Library
+categories: 
+    - Android
+    - 知识总结
 
 ---
 
