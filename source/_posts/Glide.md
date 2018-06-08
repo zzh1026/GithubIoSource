@@ -5,7 +5,8 @@ date: 2018-05-16 13:54:08
 tags: Android,Glide
 categories: 
     - Android
-    - 学习知识
+    - 图片加载
+    - 学习总结
 
 ---
 
