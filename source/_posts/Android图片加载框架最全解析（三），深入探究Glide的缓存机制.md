@@ -18,7 +18,7 @@ categories:
 
 出自于：[郭霖的博客](https://blog.csdn.net/guolin_blog)
 
-本篇为Glide系列的第二篇： **深入探究Glide的缓存机制**
+本篇为Glide系列的第三篇： **深入探究Glide的缓存机制**
 
 **本文主要用于个人学习回顾使用**
 
